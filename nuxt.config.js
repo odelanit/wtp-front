@@ -14,6 +14,10 @@ export default {
             {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
             {
                 rel: 'stylesheet',
+                href: '/css/all.min.css'
+            },
+            {
+                rel: 'stylesheet',
                 href: '/css/bootstrap.min.css'
             },
             {
